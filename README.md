@@ -1,5 +1,11 @@
 # BDC 2026
 
+| Nama Anggota | ID           |
+|--------------|--------------|
+| Darel Ajni Fahrezi          | 103012580009 |
+| Ramadhan Abdul Aziz         | 103012580007 |
+| Andre Fransiscus Masalle       | 103012580019 |
+
 Repo ini berisi model untuk kompetisi BDC 2026 – klasifikasi teks tweet ke dalam 8 aspek kebijakan Makan Bergizi Gratis (MBG).
 
 ## Arsitekur Sistem
