@@ -1,6 +1,6 @@
 # BDC 2026
 
-| Nama Anggota | ID           |
+| Nama Anggota | NIM          |
 |--------------|--------------|
 | Darel Ajni Fahrezi          | 103012580009 |
 | Ramadhan Abdul Aziz         | 103012580007 |
