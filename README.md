@@ -6,7 +6,7 @@
 | Ramadhan Abdul Aziz         | 103012580007 |
 | Andre Fransiscus Masalle       | 103012580019 |
 
-Repo ini berisi model untuk kompetisi BDC 2026 – klasifikasi teks tweet ke dalam 8 aspek kebijakan Makan Bergizi Gratis (MBG).
+Repo ini berisi model untuk seleksi internal kompetisi BDC 2026 – klasifikasi teks tweet ke dalam 8 aspek kebijakan Makan Bergizi Gratis (MBG).
 
 ## Arsitekur Sistem
 - **Model**: IndoBERTweet (`indolem/indobertweet-base-uncased`)
