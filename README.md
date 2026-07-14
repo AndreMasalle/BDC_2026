@@ -1,4 +1,4 @@
-# BDC 2026
+# Seleksi Internal BDC 2026
 
 | Nama Anggota | NIM          |
 |--------------|--------------|
